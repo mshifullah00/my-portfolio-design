@@ -18,7 +18,7 @@ h2{
     padding-left: 2%;
 }
 .half-width img{
-    width: 100%;
+    width: 70%;
 
 }
 .top-banner {
@@ -36,6 +36,11 @@ section{
     color: white;
     font-weight: 700;
 }
+p{
+    color: dimgray;
+}
 .dream area{
-    height: 40%;
+    background-image: url("images/dream-bg.png");
+    background-position: right;
+    background-repeat: no-repeat;
 }
